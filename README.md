@@ -3,10 +3,10 @@
 _Este mini-proyecto pretende exponer el catalogo de productos [Catalogo de productos](https://github.com/blackopsdevs/CatalogoProductos) en una servicio Api Test, las urls son las siguientes:_
 
 * **Lista de todos lo registros de Departamentos** - *http://localhost:8080/api/v1/catalogo/departamentos/*
-* **Buscar un Departamento por ID** - *http://localhost:8080/api/v1/catalogo/departamento/100
-* **Departamento con lista de Categorias** - *http://localhost:8080/api/v1/catalogo/departamento/100/categoria/100
-* **Departamento con lista de Categorias y con lista de Productos** - *http://localhost:8080/api/v1/catalogo/departamento/100/categoria/100/producto/100
-* **Departamento con lista de Categorias, con lista de Productos y con lista de Subproductos y Detalles** - *http://localhost:8080/api/v1/catalogo/departamento/100/categoria/100/producto/100/subproducto/100
+* **Buscar un Departamento por ID** - *http://localhost:8080/api/v1/catalogo/departamento/100*
+* **Departamento con lista de Categorias** - *http://localhost:8080/api/v1/catalogo/departamento/100/categoria/100*
+* **Departamento con lista de Categorias y con lista de Productos** - *http://localhost:8080/api/v1/catalogo/departamento/100/categoria/100/producto/100*
+* **Departamento con lista de Categorias, con lista de Productos y con lista de Subproductos y Detalles** - *http://localhost:8080/api/v1/catalogo/departamento/100/categoria/100/producto/100/subproducto/100*
 
 _Estas Apis corresponden a mostrar la gerarquia de productos como se muestra en la siguiente imagen:_
 
