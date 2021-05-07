@@ -11,7 +11,7 @@ _Este mini-proyecto pretende exponer el catalogo de productos [Catalogo de produ
 _Estas Apis corresponden a mostrar la gerarquia de productos como se muestra en la siguiente imagen:_
 
 <p align="center">
-  <img width="700" align="center" src="https://github.com/blackopsdevs/CatalogoProductos/blob/main/img_menu.png" alt="demo"/>
+  <img width="700" align="center" src="https://github.com/blackopsdevs/CatalogoProductos/blob/main/img_orig.png" alt="demo"/>
 </p>
 
 ## Descripcion 🚀
